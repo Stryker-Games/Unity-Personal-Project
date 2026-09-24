@@ -1,0 +1,13 @@
+# Unity generated cache and logs
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+
+# VSCodium / Visual Studio auto-generated project files
+/.vscode/
+*.csproj
+*.slnx
